@@ -1,0 +1,11 @@
+{'FAN0': {'exist': True, 'slot_num': 0},
+ 'LC0': {'exist': True, 'optical': [], 'slot_num': 0},
+ 'LC1': {'exist': True, 'optical': [], 'slot_num': 1},
+ 'PS0': {'exist': True,
+         'm0': {'exist': True, 'slot_num': 0},
+         'slot_num': 0},
+ 'PS1': {'exist': True,
+         'm0': {'exist': True, 'slot_num': 0},
+         'slot_num': 1},
+'RSP0': {'exist': True, 'slot_num': 0},
+'RSP1': {'exist': False, 'slot_num': 1}}
